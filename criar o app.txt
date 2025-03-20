@@ -1,0 +1,3 @@
+cd test_create_flutter
+
+flutter build apk --split-per-abi
